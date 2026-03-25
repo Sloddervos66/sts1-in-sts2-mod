@@ -4,5 +4,7 @@
     "STS1CONTENT-LIMIT_BREAK.description": "Double your [gold]Strength[/gold].",
     "STS1CONTENT-LIMIT_BREAK.title": "Limit Break",
     "STS1CONTENT-TERROR.description": "Apply {VulnerablePower:diff()} [gold]Vulnerable[/gold].",
-    "STS1CONTENT-TERROR.title": "Terror"
+    "STS1CONTENT-TERROR.title": "Terror",
+    "STS1CONTENT-SPOT_WEAKNESS.description": "If the enemy intends to attack, gain {StrengthPower:diff()} [gold]Strength[/gold].",
+    "STS1CONTENT-SPOT_WEAKNESS.title": "Spot Weakness"
 }
