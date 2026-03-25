@@ -6,5 +6,7 @@
     "STS1CONTENT-TERROR.description": "Apply {VulnerablePower:diff()} [gold]Vulnerable[/gold].",
     "STS1CONTENT-TERROR.title": "Terror",
     "STS1CONTENT-SPOT_WEAKNESS.description": "If the enemy intends to attack, gain {StrengthPower:diff()} [gold]Strength[/gold].",
-    "STS1CONTENT-SPOT_WEAKNESS.title": "Spot Weakness"
+    "STS1CONTENT-SPOT_WEAKNESS.title": "Spot Weakness",
+    "STS1CONTENT-SEARING_BLOW.description": "Deal {Damage:diff()} damage. Can be [gold]Upgraded[/gold] any number of times.",
+    "STS1CONTENT-SEARING_BLOW.title": "Searing Blow"
 }
