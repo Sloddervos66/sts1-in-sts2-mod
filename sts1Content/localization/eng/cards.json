@@ -1,0 +1,4 @@
+{
+    "STS1CONTENT-HEAVY_BLADE.description": "Deal {CalculatedDamage:diff()} damage. [gold]Strength[/gold] affect this card {Multiplier:diff()} times.",
+    "STS1CONTENT-HEAVY_BLADE.title": "Heavy Blade"
+}
