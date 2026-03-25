@@ -5,7 +5,7 @@ using Godot;
 
 namespace sts1Content.sts1ContentCode.Relics;
 
-public abstract class sts1ContentRelic : CustomRelicModel
+public abstract class CustomRelic : CustomRelicModel
 {
     //sts1Content/images/relics
     public override string PackedIconPath

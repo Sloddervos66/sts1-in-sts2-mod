@@ -5,7 +5,7 @@ using Godot;
 
 namespace sts1Content.sts1ContentCode.Powers;
 
-public abstract class sts1ContentPower : CustomPowerModel
+public abstract class CustomPower : CustomPowerModel
 {
     //Loads from sts1Content/images/powers/your_power.png
     public override string CustomPackedIconPath
